@@ -29,8 +29,8 @@ Follow these steps to run the application:
 
 1. **Clone the Git Repository:**
    ```sh
-   git clone https://github.com/tanszejing/dsa3101-2310-15-carpark.git
-   cd dsa3101-2310-15-carpark
+   git clone https://github.com/jason-chuah/NUS-Carpark-Simulation-Model.git
+   cd NUS-Carpark-Simulation-Model
    ```
 2. **Make sure you are in the root of the cloned local repository and run Docker Compose:**
    ```sh
@@ -45,8 +45,8 @@ To run our application locally without using Docker, follow these steps:
 
 1. **Clone the Git Repository:**
    ```sh
-   git clone https://github.com/tanszejing/dsa3101-2310-15-carpark.git 
-   cd dsa3101-2310-15-carpark
+   git clone https://github.com/jason-chuah/NUS-Carpark-Simulation-Model.git 
+   cd NUS-Carpark-Simulation-Model
    ```
 2. **Install the dependencies required.**
    ```sh
