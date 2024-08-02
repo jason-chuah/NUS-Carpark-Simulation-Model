@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  flask-app:
+    build:
+      context: ./back
+    ports:
+      - "5001:5000"
+
+  streamlit-app:
+    build:
+      context: ./front
+    ports:
+      - "8501:8501"
+
+

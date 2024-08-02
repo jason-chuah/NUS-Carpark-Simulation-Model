@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  streamlit-app:
+    build:
+      context: .
+    ports:
+      - "5001:5000"
+
+
